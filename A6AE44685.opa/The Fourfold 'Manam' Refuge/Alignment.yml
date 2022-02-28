@@ -1,0 +1,19 @@
+segment_sources:
+  P3473252B:
+    type: origin_type
+    relation: translation
+    language: en
+  P9020B554:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  91154f1368f240ba834955f24ec9ec73:
+    P3473252B: be582c004a2949609eacffb0680ee4f6
+    P9020B554: 4b064ebc6f934bbfb742e6785e94923b
+  01f9ab18d98342d49f7e0998d3a470c7:
+    P3473252B: 22b9cde8fe1d4c2f9406a71378dd27c8
+    P9020B554: d149f75ed4524f26850a49330a11c9ce
+  c724ea0cde924b14b3ea3b8ec3f1f5dc:
+    P3473252B: ecd53734117f47fca3cd3c1f01a69c71
+    P9020B554: 5d56364040d042b68d0577b8f60f2941
